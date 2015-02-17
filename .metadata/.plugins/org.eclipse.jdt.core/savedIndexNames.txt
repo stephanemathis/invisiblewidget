@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\Users\Stéphane\Documents\Android\workspaceInvisibleWidget\.metadata\.plugins\org.eclipse.jdt.core
+2617618930.index
+233588015.index
+915348137.index

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Invisible Widget</string>
+    <string name="activity_configuration_description">Ceci est une application-<i>widget</i>.\n\nSon unique but est de proposer un widget transparent dont la taille est configurable.\nIl peut être placé sur certains launchers pour activer une nouvelle page.\n\nSi vous ne retrouvez plus ces widgets, changez le transparence ci-dessous et retourner sur l\'écran d\'accueil.</string>
+	<string name="activity_configuration_wallpaperBackground">Votre fond d\'écran</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Invisible Widget</string>
+    <string name="activity_configuration_description">This is a <i>widget-only</i> application.\n\nIts unique purpose is to offer a resizable transparent widget.\nIt can be placed on some launchers to activate a new home page.\n\nIf you have lost some invisible widgets, change the alpha channel below.</string>
+	<string name="activity_configuration_wallpaperBackground">Your wallpaper</string>
+</resources>
