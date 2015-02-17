@@ -7,7 +7,6 @@
 <fullyQualifiedTypeName name="android.graphics.Bitmap"/>
 <fullyQualifiedTypeName name="android.graphics.Canvas"/>
 <fullyQualifiedTypeName name="fr.mathis.invisiblewidget.DataManager"/>
-<fullyQualifiedTypeName name="fr.mathis.invisiblewidget.R.color"/>
 <fullyQualifiedTypeName name="fr.mathis.invisiblewidget.R.layout"/>
 <fullyQualifiedTypeName name="fr.mathis.invisiblewidget.R.xml"/>
 <fullyQualifiedTypeName name="android.appwidget.AppWidgetManager"/>
@@ -31,4 +30,10 @@
 <fullyQualifiedTypeName name="android.widget.Toast"/>
 <fullyQualifiedTypeName name="android.content.ComponentName"/>
 <fullyQualifiedTypeName name="android.content.pm.PackageManager"/>
+<fullyQualifiedTypeName name="fr.mathis.invisiblewidget.R.color"/>
+<fullyQualifiedTypeName name="android.os.Build.VERSION"/>
+<fullyQualifiedTypeName name="android.os.Build"/>
+<fullyQualifiedTypeName name="android.os.Build.VERSION_CODES"/>
+<fullyQualifiedTypeName name="android.view.WindowManager"/>
+<fullyQualifiedTypeName name="fr.mathis.wallapperrestorer.R.string"/>
 </qualifiedTypeNameHistroy>
